@@ -13,7 +13,28 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/HP/Downloads/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar">
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar" sourcepath="C:/Users/HP/Downloads/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/HP/git/repository5/ProxyLib/"/>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar_files/jakarta.servlet.jsp.jstl-api-2.0.0.jar" sourcepath="C:/Users/HP/Downloads/jar_files/jakarta.servlet.jsp.jstl-api-2.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/HP/git/repository5/ProxyLib/"/>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar_files/jakarta.servlet.jsp.jstl-2.0.0.jar" sourcepath="C:/Users/HP/Downloads/jar_files/jakarta.servlet.jsp.jstl-2.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/HP/git/repository5/ProxyLib/"/>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/HP/Downloads/jar_files (1)/json-20240303.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>

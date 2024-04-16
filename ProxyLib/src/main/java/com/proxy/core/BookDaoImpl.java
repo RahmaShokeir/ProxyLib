@@ -20,7 +20,7 @@ public class BookDaoImpl implements BookDao {
     @Override
     public List<Book> getAllBooks(){
         List<Book> books = new ArrayList<>();
-        String sql = "SELECT * FROM books";
+        String sql = "SELECT * FROM bookstore1.books";
 
         try (Connection connection = dbConnection.getConnection();
              PreparedStatement preparedStatement = connection.prepareStatement(sql);
